@@ -27,7 +27,7 @@ Conversational AI chatbot built using Python and a pre-trained Ollama LLM. Uses 
 # Technologies used
 - Python
 - Ollama / Hugging Face
-- Llama 3 / Mistral / Gemma (mention whichever you used)
+- Llama 3 / Mistral / Gemma (as you wish for stuff storage)
 - Prompt Engineering
 - VS Code
 
